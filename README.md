@@ -1,6 +1,8 @@
 # prime-group-joins
 Peer Exercise working with JOINS in SQL
 
+## Asignment Description
+
 Exercise
 For each of the following questions
 
